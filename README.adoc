@@ -1,4 +1,4 @@
-= Quarkus Workshop Guide Source Code (forked)
+= Quarkus Workshop Guide Source Code
 
 
 This is the source code for the https://github.com/RedHatWorkshops/quarkus-workshop-m3[Quarkus Workshop Module 3].
